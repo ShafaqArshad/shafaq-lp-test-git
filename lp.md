@@ -3,8 +3,7 @@ description: understanding Yaml in Kubernetes test
 isPremium: true
 isNew: true
 isAvailable: true
-scenarioCount: 3
-scenarios:
+scenarioCount: 1
 scenarios:
   - test scenario 1
 "categories": Golang
